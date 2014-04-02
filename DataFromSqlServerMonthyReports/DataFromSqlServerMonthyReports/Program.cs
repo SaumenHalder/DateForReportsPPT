@@ -11,6 +11,7 @@ namespace DataFromSqlServerMonthyReports
         static void Main(string[] args)
         {
             Console.Write("hello");
+            //added a comment to see the git
         }
     }
 }

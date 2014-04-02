@@ -10,6 +10,7 @@ namespace DataFromSqlServerMonthyReports
     {
         static void Main(string[] args)
         {
+            Console.Write("hello");
         }
     }
 }
